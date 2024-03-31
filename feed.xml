@@ -5,8 +5,11 @@
     <description>Delivered is a podcast about the ins and outs of software product delivery, team dynamics, Agile principles, finding value for businesses, and managing client relationships.</description>
     <link>https://www.youtube.com/playlist?list=PLAijQAnrOSbreG2diHx6lDgpdufD47gnH</link>
     <language>en</language>
-    <copyright>&amp;#xA9; 2024 NicholSound Studio. All rights reserved.</copyright>
-    <itunes:category text="Business"/>
+    <copyright>© 2024 NicholSound Studio. All rights reserved.</copyright>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://i.ytimg.com/pl_c/PLAijQAnrOSbreG2diHx6lDgpdufD47gnH/studio_square_thumbnail.jpg?sqp=CMDtpbAGovOX_wMGCLW3prAG&amp;rs=AOn4CLCvj2LxYdyF5I2Ek7Q6ZuNukw0vQA"/>
