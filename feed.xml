@@ -4,10 +4,16 @@
     <title>Delivered: An Agile Podcast</title>
     <description>Delivered is a podcast about the ins and outs of software product delivery, team dynamics, Agile principles, finding value for businesses, and managing client relationships.</description>
     <link>https://www.youtube.com/playlist?list=PLAijQAnrOSbreG2diHx6lDgpdufD47gnH</link>
-    <item>
-      <title>Delivered Episode -1 - Testing and Establishing Software</title>
-      <link>https://youtu.be/GFv-LxnPXBE?si=FOgypdO_7P8xnnYO</link>
-      <description>This is a test video to establish a baseline rss feed and test audio/video.</description>
-    </item>
+    <language>en</language>
+    <copyright>
+      © 2024 NicholSound Studio. All rights reserved.
+      <item>
+        <title>Delivered Episode -1 - Testing and Establishing Software</title>
+        <link>https://youtu.be/GFv-LxnPXBE?si=FOgypdO_7P8xnnYO</link>
+        <description>This is a test video to establish a baseline rss feed and test audio/video.</description>
+        <pubDate>Sun, 31 Mar 2024 03:30:00 GMT</pubDate>
+        <enclosure url="https://example.com/media/file.mp3" length="12345" type="audio/mpeg"/>
+      </item>
+    </copyright>
   </channel>
 </rss>
