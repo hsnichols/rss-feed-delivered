@@ -6,7 +6,8 @@
     <link>https://www.youtube.com/playlist?list=PLAijQAnrOSbreG2diHx6lDgpdufD47gnH</link>
     <language>en</language>
     <copyright>© 2024 NicholSound Studio. All rights reserved.</copyright>
-    <itunes:author>NicholSound Studio</itunes:author>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:image href="https://i.ytimg.com/pl_c/PLAijQAnrOSbreG2diHx6lDgpdufD47gnH/studio_square_thumbnail.jpg?sqp=CMDtpbAGovOX_wMGCLW3prAG&amp;rs=AOn4CLCvj2LxYdyF5I2Ek7Q6ZuNukw0vQA"/>
     <item>
