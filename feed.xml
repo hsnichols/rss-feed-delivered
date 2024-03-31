@@ -8,13 +8,13 @@
     <copyright>© 2024 NicholSound Studio. All rights reserved.</copyright>
     <itunes:author>NicholSound Studio</itunes:author>
     <itunes:type>serial</itunes:type>
-    <itunes:image href="https://i.ytimg.com/pl_c/PLAijQAnrOSbreG2diHx6lDgpdufD47gnH/studio_square_thumbnail.jpg?sqp=CMDtpbAGovOX_wMGCLW3prAG&rs=AOn4CLCvj2LxYdyF5I2Ek7Q6ZuNukw0vQA"/>
+    <itunes:image href="https://i.ytimg.com/pl_c/PLAijQAnrOSbreG2diHx6lDgpdufD47gnH/studio_square_thumbnail.jpg?sqp=CMDtpbAGovOX_wMGCLW3prAG&amp;rs=AOn4CLCvj2LxYdyF5I2Ek7Q6ZuNukw0vQA"/>
     <item>
       <title>Delivered Episode -1 - Testing and Establishing Software</title>
       <link>https://youtu.be/GFv-LxnPXBE?si=FOgypdO_7P8xnnYO</link>
       <description>This is a test video to establish a baseline rss feed and test audio/video.</description>
       <pubDate>Sun, 31 Mar 2024 03:30:00 GMT</pubDate>
-      <enclosure url="https://www.dropbox.com/scl/fi/g6t2r3u7svl0n680ztrsx/delivered_episode_-1.mp3?rlkey=vkj62jtn9p5lplgg4xzg6fwra&dl=0" length="1766584" type="audio/mpeg"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/g6t2r3u7svl0n680ztrsx/delivered_episode_-1.mp3?rlkey=vkj62jtn9p5lplgg4xzg6fwra&amp;dl=0" length="1766584" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
