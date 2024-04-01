@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Delivered: An Agile Podcast</title>
     <description>Delivered is a podcast about the ins and outs of software product delivery, team dynamics, Agile principles, finding value for businesses, and managing client relationships.</description>
@@ -14,6 +14,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://github.com/hsnichols/rss-feed-delivered/blob/main/Acklen%20Podcast%20Logo.jpg?raw=true"/>
+    <podcast:guid>5c384a23-1e21-5b76-a248-c32e04183434</podcast:guid>
     <atom:link href="https://hsnichols.github.io/rss-feed-delivered/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Delivered Episode -1 - Testing and Establishing Software</title>

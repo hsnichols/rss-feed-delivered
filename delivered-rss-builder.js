@@ -30,6 +30,7 @@ const feed = xmlbuilder
   .att("xmlns:itunes", "http://www.itunes.com/dtds/podcast-1.0.dtd") // iTunes namespace
   .att("xmlns:content", "http://purl.org/rss/1.0/modules/content/") // Content namespace
   .att("xmlns:atom", "http://www.w3.org/2005/Atom") // Atom namespace
+  .att("xmlns:podcast", "https://podcastindex.org/namespace/1.0") //podcast namespace
   .ele("channel")
   .ele("title", "Delivered: An Agile Podcast")
   .up()
@@ -58,6 +59,8 @@ const feed = xmlbuilder
   .up()
   .ele("itunes:image")
   .att("href", "https://github.com/hsnichols/rss-feed-delivered/blob/main/Acklen%20Podcast%20Logo.jpg?raw=true")
+  .up()
+  .ele("podcast:guid", "5c384a23-1e21-5b76-a248-c32e04183434")
   .up()
   .ele("atom:link")
   .att("href", "https://hsnichols.github.io/rss-feed-delivered/feed.xml")
