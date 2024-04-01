@@ -12,14 +12,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://github.com/hsnichols/rss-feed-delivered/blob/b1ca60424b8ec8847a82e6a8e84ac901043848ff/Acklen%20Podcast%20Logo.jpg"/>
+    <itunes:image href="https://github.com/hsnichols/rss-feed-delivered/blob/main/Acklen%20Podcast%20Logo.jpg?raw=true"/>
     <item>
       <title>Delivered Episode -1 - Testing and Establishing Software</title>
       <link>https://youtu.be/GFv-LxnPXBE?si=FOgypdO_7P8xnnYO</link>
       <description>This is a test video to establish a baseline rss feed and test audio/video.</description>
       <guid>c26aad33-78d8-4a2c-8ed1-b5365884f065</guid>
       <pubDate>Sun, 31 Mar 2024 10:30:00 GMT</pubDate>
-      <enclosure url="https://github.com/hsnichols/rss-feed-delivered/blob/4ac60bedeaf2262d7da6da4592386f2d4f091056/delivered_episode_-1.mp3" length="1766584" type="audio/mpeg"/>
+      <enclosure url="https://github.com/hsnichols/rss-feed-delivered/raw/main/delivered_episode_-1.mp3" length="1766584" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
