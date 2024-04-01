@@ -14,6 +14,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://github.com/hsnichols/rss-feed-delivered/blob/main/Acklen%20Podcast%20Logo.jpg?raw=true"/>
+    <atom:link href="https://hsnichols.github.io/rss-feed-delivered/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Delivered Episode -1 - Testing and Establishing Software</title>
       <link>https://youtu.be/GFv-LxnPXBE?si=FOgypdO_7P8xnnYO</link>
