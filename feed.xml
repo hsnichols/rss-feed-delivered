@@ -21,6 +21,7 @@
       <description>This is a test video to establish a baseline rss feed and test audio/video.</description>
       <guid>c26aad33-78d8-4a2c-8ed1-b5365884f065</guid>
       <pubDate>Sun, 31 Mar 2024 10:30:00 GMT</pubDate>
+      <itunes:season>1</itunes:season>
       <enclosure url="https://github.com/hsnichols/rss-feed-delivered/raw/main/delivered_episode_-1.mp3" length="1766584" type="audio/mpeg"/>
     </item>
   </channel>

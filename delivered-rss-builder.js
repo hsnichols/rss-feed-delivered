@@ -13,6 +13,7 @@ const feedData = {
       description: "This is a test video to establish a baseline rss feed and test audio/video.",
       guid: "c26aad33-78d8-4a2c-8ed1-b5365884f065",
       pubDate: "Sun, 31 Mar 2024 10:30:00 GMT", // Example publishing date (RFC 822 format)
+      season: 1,
       enclosure: {
         url: "https://github.com/hsnichols/rss-feed-delivered/raw/main/delivered_episode_-1.mp3", // URL of the multimedia attachment
         length: 1766584, // Length of the multimedia attachment in bytes
@@ -80,6 +81,11 @@ feedData.items.forEach((item) => {
   // Add publish date tag if provided
   if (item.pubDate) {
     itemElement.ele("pubDate", item.pubDate);
+  }
+
+  // Add season tag if provided
+  if (item.season) {
+    itemElement.ele("itunes:season", item.season);
   }
 
   // Add enclosure tag if provided
